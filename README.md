@@ -1,9 +1,7 @@
 # random_renamer
-## _The Last Markdown Editor, Ever_
+## Script made for client, mostly to deal with bulk downloading of WIP images by artists
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 A script that renames a bunch of files inside ./input folder, with random quirky names (separated as adjective, verb, noun so final name of each will be<adjective> <verb> <noun>, such as "fierce punching turtle.png")
 
