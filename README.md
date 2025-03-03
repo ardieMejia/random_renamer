@@ -6,7 +6,7 @@
 A script that renames a bunch of files inside ./input folder, with random quirky names (separated as adjective, verb, noun so final name of each will be "\<adjective> \<verb> \<noun>.png", such as "fierce punching turtle.png")
 
 
-### AssumptionsL
+### Assumptions
 - Files amount doesnt exceed 10,000\
  and none of the files have names that look like this "TEMP\<numbers>"
 - Where \<numbers> starts from "00001" to "99999"
