@@ -3,7 +3,7 @@
 
 
 
-A script that renames a bunch of files inside ./input folder, with random quirky names (separated as adjective, verb, noun so final name of each will be<adjective> <verb> <noun>, such as "fierce punching turtle.png")
+A script that renames a bunch of files inside ./input folder, with random quirky names (separated as adjective, verb, noun so final name of each will be \<adjective>_\<verb>_\<noun>, such as "fierce punching turtle.png")
 
 
 ### AssumptionsL
