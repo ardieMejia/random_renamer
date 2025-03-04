@@ -1,9 +1,10 @@
 # random_renamer
-## Script made for client, mostly to deal with bulk downloading of WIP images by artists
+## Script made for client, inspired by  [gfycat](https://github.com/HeartoLazor/gfycat_name_generator), but made to be run locally on any Windows using Powershell.
 
 
 
 A script that renames a bunch of files inside ./input folder, with random quirky names (separated as adjective, verb, noun so final name of each will be "\<adjective> \<verb> \<noun>.png", such as "fierce punching turtle.png")
+
 
 
 ### Assumptions
